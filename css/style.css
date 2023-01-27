@@ -38,7 +38,7 @@ a {
 }
 
 .container {
-  width: 50%;
+ max-width: 50%;
   height: 60vh;
   float: right;
   margin: 100px;
